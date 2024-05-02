@@ -1,0 +1,16 @@
+{
+  "files": {
+    "main.css": "/static/css/main.ea206f75.css",
+    "main.js": "/static/js/main.e93e188d.js",
+    "static/js/453.02cdc612.chunk.js": "/static/js/453.02cdc612.chunk.js",
+    "static/media/DJI_0015.JPG": "/static/media/DJI_0015.aedc8f4f21f2e817e286.JPG",
+    "index.html": "/index.html",
+    "main.ea206f75.css.map": "/static/css/main.ea206f75.css.map",
+    "main.e93e188d.js.map": "/static/js/main.e93e188d.js.map",
+    "453.02cdc612.chunk.js.map": "/static/js/453.02cdc612.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.ea206f75.css",
+    "static/js/main.e93e188d.js"
+  ]
+}
