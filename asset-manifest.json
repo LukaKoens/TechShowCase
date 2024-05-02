@@ -1,16 +1,16 @@
 {
   "files": {
     "main.css": "/TechShowCase/static/css/main.ea206f75.css",
-    "main.js": "/TechShowCase/static/js/main.ba4cb4db.js",
+    "main.js": "/TechShowCase/static/js/main.0d1c879e.js",
     "static/js/453.02cdc612.chunk.js": "/TechShowCase/static/js/453.02cdc612.chunk.js",
     "static/media/DJI_0015.JPG": "/TechShowCase/static/media/DJI_0015.aedc8f4f21f2e817e286.JPG",
     "index.html": "/TechShowCase/index.html",
     "main.ea206f75.css.map": "/TechShowCase/static/css/main.ea206f75.css.map",
-    "main.ba4cb4db.js.map": "/TechShowCase/static/js/main.ba4cb4db.js.map",
+    "main.0d1c879e.js.map": "/TechShowCase/static/js/main.0d1c879e.js.map",
     "453.02cdc612.chunk.js.map": "/TechShowCase/static/js/453.02cdc612.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.ea206f75.css",
-    "static/js/main.ba4cb4db.js"
+    "static/js/main.0d1c879e.js"
   ]
 }
