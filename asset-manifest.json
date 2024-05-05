@@ -1,17 +1,17 @@
 {
   "files": {
-    "main.css": "/TechShowCase/static/css/main.ea206f75.css",
-    "main.js": "/TechShowCase/static/js/main.68dd4951.js",
+    "main.css": "/TechShowCase/static/css/main.8bc8d84d.css",
+    "main.js": "/TechShowCase/static/js/main.64309e48.js",
     "static/js/453.02cdc612.chunk.js": "/TechShowCase/static/js/453.02cdc612.chunk.js",
     "static/media/Printer.splat": "/TechShowCase/static/media/Printer.90c754515fcbab4978f7.splat",
     "static/media/DJI_0015.JPG": "/TechShowCase/static/media/DJI_0015.aedc8f4f21f2e817e286.JPG",
     "index.html": "/TechShowCase/index.html",
-    "main.ea206f75.css.map": "/TechShowCase/static/css/main.ea206f75.css.map",
-    "main.68dd4951.js.map": "/TechShowCase/static/js/main.68dd4951.js.map",
+    "main.8bc8d84d.css.map": "/TechShowCase/static/css/main.8bc8d84d.css.map",
+    "main.64309e48.js.map": "/TechShowCase/static/js/main.64309e48.js.map",
     "453.02cdc612.chunk.js.map": "/TechShowCase/static/js/453.02cdc612.chunk.js.map"
   },
   "entrypoints": [
-    "static/css/main.ea206f75.css",
-    "static/js/main.68dd4951.js"
+    "static/css/main.8bc8d84d.css",
+    "static/js/main.64309e48.js"
   ]
 }
