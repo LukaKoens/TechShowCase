@@ -1,16 +1,15 @@
 import "./printing.css"
 import GaussianViewer from "./gaussian"
+import printerSplat from "../assets/Printer.splat"
 
 
 export default function Printing() {
 
-    const defaultViewMatrix = [0,0,1,0,0,1,0,0,1,0,0,0,0,0.85,0,1];
-
-
+    console.log(printerSplat);
     return (
         <div id="contentContainer">
             <div id="gaussianViewerContainer">
-                <GaussianViewer source="https://lukakoens.github.io/TechShowCase/Printer.splat" />
+                <GaussianViewer source={printerSplat} />
             </div>
             <div id="content">
                 <h1>3D Printing & Modeling</h1>
@@ -28,7 +27,7 @@ export default function Printing() {
                 </p>
                 <p>
                     During my time at Scion I was introduced to 3D gaussians, which is whats being used to display my model.
-                    These 3d Models can be used to create printable objects which I succesfully did at Scion.
+                    These 3d Models can be used to create printable objects which I have sucessfully done, however its currently a time intensive process.
                 </p>
             </div>
         </div>

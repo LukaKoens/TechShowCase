@@ -36,6 +36,7 @@
     margin: 0;
     margin-left:20%;
     padding: 0;
+    padding-bottom: 3em;
     list-style: none; /* Remove list styles */
   }
   
@@ -45,6 +46,15 @@
     color: #555555; /* Lighter text color */
     margin-bottom: 10px; /* Add space between list items */
   }
+
+  #intro p {
+    padding: 0.45em 1.3em;
+    font-size: 1.25em; /* Adjust font size */
+    line-height: 1.6; /* Increase line height for better readability */
+    color: #333333; /* Darker text color */
+    margin-bottom: 20px; /* Add spacing between paragraphs */
+  }
+  
   
   #map {
     height: 80vh;
@@ -54,4 +64,5 @@
     border-radius: 5px; /* Rounded corners */
     box-shadow: 1px 0px 10px rgba(0, 0, 0, 0.1); /* Soft shadow */
   }
+  
   
