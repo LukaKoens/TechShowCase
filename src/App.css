@@ -1,3 +1,5 @@
+
+
 body{
   background-color: #eef2f5;
 }
@@ -47,3 +49,15 @@ margin-top: 5vh;
 width:50%;
 height:50vh;
 } */
+.scroll-container {
+  overflow-y: scroll;
+  scroll-snap-type: y mandatory;
+  scroll-behavior: smooth;
+  width: 100%;
+}
+
+.container {
+  scroll-snap-align: center;
+  overflow-x: hidden;
+  height: 100vh;
+}

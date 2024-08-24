@@ -10,7 +10,7 @@ h3 {
 }
 p {
 	margin: 5px 0;
-	font-size: small;
+	/* font-size: small; */
 }
 
 .scene,
@@ -29,13 +29,13 @@ p {
 }
 .message {
 	font-weight: bold;
-	font-size: large;
+	/* font-size: large; */
 	color: red;
 	pointer-events: none;
 }
 
 details {
-	font-size: small;
+	/* font-size: small; */
 
 }
 

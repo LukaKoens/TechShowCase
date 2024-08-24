@@ -1,25 +1,21 @@
-import "./printing.css"
-import GaussianViewer from "./gaussian"
+import "./drones.css"
+import homeImage from "../assets/DJI_0588.JPG"
 
 
-export default function Printing() {
+export default function Drone() {
     return (
         <div id="contentContainer">
-            <div id="gaussianViewerContainer">
-                <GaussianViewer source="https://lukakoens.github.io/TechShowCase/printer_staged.splat" />
-            </div>
-            <div id="content">
-                <h1>Drones and Geospatial Skills</h1>
-                <p>
-                    While working at Scion I was formally introduced to the industry standard Geospatial tools prodivded by Esri such as ArcGIS Pro.
-                    
 
+            <div id="content">
+                <h2> Drone Photography</h2>
+                <p>
+                    After getting a DJI mini 2 SE, I have performed a number of flights over some local Northshore parks, Caputring a lot of imagery of the eco systems present. 
                 </p>
                 <p>
-                    I am always interested in the hardware that operates a system and have interests in automotive electronics and other hobbyist electronics projects.
-                    I have done a couple projects using arduino boards, and have taught myself the basics of using a ESP32 devkit board, and successfully implemented a simple LAN device controller.
+                    I have been sharing the images I've captured with a local conservation organisaiton (<a href="https://www.pfk.org.nz/"> PFK </a>), and working on developing the tools to use the images captured in GIS workflows and utilse the information captured
                 </p>
             </div>
+            <img src={homeImage} alt="Kauri Point" />
         </div>
     )
 }
