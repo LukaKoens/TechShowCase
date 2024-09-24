@@ -1,6 +1,6 @@
 {
   "files": {
-    "main.css": "/TechShowCase/static/css/main.ea0c9735.css",
+    "main.css": "/TechShowCase/static/css/main.0d50d124.css",
     "main.js": "/TechShowCase/static/js/main.ff600e8c.js",
     "static/js/453.02cdc612.chunk.js": "/TechShowCase/static/js/453.02cdc612.chunk.js",
     "static/media/Printer.splat": "/TechShowCase/static/media/Printer.90c754515fcbab4978f7.splat",
@@ -8,12 +8,12 @@
     "static/media/DJI_0924.JPG": "/TechShowCase/static/media/DJI_0924.be926f4b5cc1d4288947.JPG",
     "static/media/DJI_0788.JPG": "/TechShowCase/static/media/DJI_0788.9adfaaa1b1823ba3238a.JPG",
     "index.html": "/TechShowCase/index.html",
-    "main.ea0c9735.css.map": "/TechShowCase/static/css/main.ea0c9735.css.map",
+    "main.0d50d124.css.map": "/TechShowCase/static/css/main.0d50d124.css.map",
     "main.ff600e8c.js.map": "/TechShowCase/static/js/main.ff600e8c.js.map",
     "453.02cdc612.chunk.js.map": "/TechShowCase/static/js/453.02cdc612.chunk.js.map"
   },
   "entrypoints": [
-    "static/css/main.ea0c9735.css",
+    "static/css/main.0d50d124.css",
     "static/js/main.ff600e8c.js"
   ]
 }
